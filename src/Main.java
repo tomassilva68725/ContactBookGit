@@ -152,6 +152,6 @@ public class Main {
         else System.out.println(BOOK_EMPTY);
     }
     private static void getContact(Scanner in, ContactBook cBook) {
-        int number = in.nextInt();
+        int number = in.nextInt() ;
     }
 }
